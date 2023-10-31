@@ -2,7 +2,7 @@
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);每天都要开心！!&center=true&size=27"> </a> </h1>
 
 
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sa-y0nara" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sa-y0nara&theme=xcode" /> </div>
 <!--
 **sa-y0nara/sa-y0nara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
